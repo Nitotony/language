@@ -1,0 +1,56 @@
+.language_prime {
+  width: 70%;
+  display: grid;
+  grid-template-columns: 400px 400px;
+  column-gap: 600px;
+  margin-top: 20px;
+
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.language_one {
+  padding: 30px;
+  border-radius: 25px;
+  margin-top: 7px;
+  margin-left: 10px;
+  margin-right: 90px;
+}
+
+.language_zero {
+  padding: 30px;
+  margin-bottom: 20px;
+  border-radius: 25px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+input {
+  border-radius: 10px;
+  text-align: center;
+  max-width: 300px;
+  width: fit-content;
+  height: 50px;
+  font-size: large;
+  padding: 5px;
+}
+select {
+  text-align: center;
+  font-size: large;
+  border-radius: 10px;
+  width: 200px;
+  height: 50px;
+  background-color: white;
+  color: black;
+  padding: 5px;
+}
+
+input:focus,
+input:active {
+  outline: none;
+}
+
+select:focus,
+select:active {
+  outline: none;
+}
