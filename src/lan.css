@@ -1,12 +1,12 @@
 .language_prime {
-  width: 70%;
+  width: 900px;
   display: grid;
   grid-template-columns: 400px 400px;
   column-gap: 600px;
   margin-top: 20px;
 
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 .language_one {

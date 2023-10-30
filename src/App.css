@@ -69,13 +69,14 @@
   display: grid;
   column-gap: 750px;
   grid-template-columns: 200px 200px;
-  top: 550px;
-  left: 600px;
+  top: 650px;
+  left: 300px;
 }
 
 .alpha {
-  width: 100rem;
+  width: 80rem;
   border-top: blue solid 2px;
   border-bottom: blue solid 2px;
-  margin-left: 200px;
+  margin-left: 100px;
+  margin-right: 200px;
 }
