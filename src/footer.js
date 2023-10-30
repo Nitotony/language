@@ -7,7 +7,7 @@ const Footer = () => {
         <button>back</button>
       </div>
       <div className="b2">
-        <button>Next, add your skills</button>
+        <button>Next, add your skills </button>
       </div>
     </div>
   );
